@@ -6,4 +6,4 @@
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/talk-go/read.svg)](https://starchart.cc/talk-go/read)
+[![Stargazers over time](https://ximury/-Android-/read.svg)](https://ximury/-Android-/read)
