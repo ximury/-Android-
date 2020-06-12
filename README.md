@@ -6,4 +6,6 @@
 
 ## Stargazers over time
 
-[![Stargazers over time](https://ximury/-Android-/read.svg)](https://seladb.github.io/StarTrack-js/#/preload?r=ximury,-Android-)
+[![Stargazers over time](https://starchart.cc/ximury/-Android-.svg)](https://seladb.github.io/StarTrack-js/#/preload?r=ximury,-Android-)
+
+[![Stargazers over time](https://starchart.cc/ximury/-Android-.svg)](https://starchart.cc/ximury/-Android-)
